@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+matplotlib
+
+# NLP (Text Emotion)
+torch
+transformers
+
+# Audio Processing
+librosa
+soundfile
+
+# Deep Learning
+tensorflow
+scikit-learn
+
+# Web Backend
+flask
+flask_cors  
+
+# Dataset Download
+kagglehub

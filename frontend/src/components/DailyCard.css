@@ -1,0 +1,26 @@
+.card {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  width: 420px;
+  margin-top: 20px;
+  box-shadow: 2px 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+  margin-bottom: 20px;
+}
+
+.card p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.suggestion {
+  margin-top: 15px;
+  padding: 12px;
+  background: #f0f7ff;
+  border-left: 5px solid #4a90e2;
+  border-radius: 6px;
+  font-weight: 500;
+}

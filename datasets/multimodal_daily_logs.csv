@@ -1,0 +1,113 @@
+date,text_score,fusion_score,dominant_emotion,mental_state
+2026-02-03,0.927,0.927,joy,Healthy
+2026-02-03,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-03,0.936,0.936,surprise,Alert
+2026-02-03,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-03,0.955,0.955,joy,Healthy
+2026-02-03,0.695,0.695,joy,Healthy
+2026-02-03,0.695,0.695,joy,Healthy
+2026-02-03,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-03,-0.991,-0.991,sadness,Low Mood Risk
+2026-02-04,0.919,0.919,joy,Healthy
+2026-02-04,-0.988,-0.988,sadness,Low Mood Risk
+2026-02-04,-0.979,-0.979,sadness,Low Mood Risk
+2026-02-04,0.937,0.937,joy,Healthy
+2026-02-04,0.928,0.928,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,-0.986,-0.986,sadness,Low Mood Risk
+2026-02-05,-0.615,-0.615,sadness,Low Mood Risk
+2026-02-05,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-05,0.271,0.271,neutral,Stable
+2026-02-05,-0.807,-0.807,sadness,Low Mood Risk
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-05,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-05,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,0.919,0.919,joy,Healthy
+2026-02-05,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-05,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-05,0.905,Healthy,joy
+2026-02-06,-0.893,Low Mood Risk,sadness
+2026-02-06,-0.893,Low Mood Risk,sadness
+2026-02-07,0.919,,0.919,joy,Healthy
+2026-02-07,0.919,,0.919,joy,Healthy
+2026-02-07,0.919,,0.919,joy,Healthy
+2026-02-07,0.919,,0.919,joy,Healthy
+2026-02-08,0.919,,0.919,joy,Healthy
+2026-02-08,0.919,,0.919,joy,Healthy
+2026-02-08,0.919,,0.919,joy,Healthy
+2026-02-08,0.919,,0.919,joy,Healthy
+2026-02-08,-0.874,,-0.874,sadness,Low Mood Risk
+2026-02-08,-0.874,,-0.874,sadness,Low Mood Risk
+2026-02-08,-0.874,,-0.874,sadness,Low Mood Risk
+2026-02-08,-0.874,,-0.874,sadness,Low Mood Risk
+2026-02-08,0.919,,0.919,joy,Healthy
+2026-02-08,0.949,,0.949,joy,Healthy
+2026-02-08,0.949,,0.949,joy,Healthy
+2026-02-08,0.919,,0.919,joy,Healthy
+2026-02-08,0.919,,0.919,joy,Healthy
+2026-02-08,0.912,,0.912,joy,Healthy
+2026-02-08,0.912,,0.912,joy,Healthy
+2026-02-08,-0.967,,-0.967,sadness,Low Mood Risk
+2026-02-08,-0.967,,-0.967,sadness,Low Mood Risk
+2026-02-08,0.912,,0.912,joy,Healthy
+2026-02-08,0.912,,0.912,joy,Healthy
+2026-02-08,-0.952,,-0.952,sadness,Low Mood Risk
+2026-02-08,0.912,,0.912,joy,Healthy
+2026-02-08,0.919,,0.919,joy,Healthy
+2026-02-08,-0.874,,-0.874,sadness,Low Mood Risk
+2026-02-08,-0.874,,-0.874,sadness,Low Mood Risk
+2026-02-08,0.919,0.919,joy,Healthy
+2026-02-08,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-08,0.919,0.919,joy,Healthy
+2026-02-08,-0.977,-0.977,sadness,Low Mood Risk
+2026-02-09,0.919,0.919,joy,Healthy
+2026-02-09,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-09,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-09,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-09,-0.283,-0.283,neutral,Stable
+2026-02-09,0.912,0.912,joy,Healthy
+2026-02-09,-0.869,-0.869,sadness,Low Mood Risk
+2026-02-09,0.912,0.912,joy,Healthy
+2026-02-09,0.912,0.912,joy,Healthy
+2026-02-09,-0.869,-0.869,sadness,Low Mood Risk
+2026-02-09,-0.869,-0.869,sadness,Low Mood Risk
+2026-02-09,0.912,0.912,joy,Healthy
+2026-02-09,0.912,joy,Healthy
+2026-02-09,0.912,0.912,joy,Healthy
+2026-02-09,-0.869,-0.869,sadness,Low Mood Risk
+2026-02-09,-0.869,-0.869,sadness,Low Mood Risk
+2026-02-09,0.919,0.919,joy,Healthy
+2026-02-09,-0.874,-0.874,sadness,Low Mood Risk
+2026-02-09,0.919,0.919,joy,Healthy
+2026-02-10,-0.992,-0.992,sadness,Low Mood Risk
+2026-02-10,0.983,0.983,joy,Healthy
+2026-02-10,0.973,0.973,joy,Healthy

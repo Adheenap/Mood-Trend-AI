@@ -1,0 +1,18 @@
+date,text_score,audio_score,fusion_score,dominant_emotion,mental_state
+2026-01-12,-0.987,,-0.987,anger,Stress Risk
+2026-01-12,-0.987,,-0.987,anger,Stress Risk
+2026-01-12,-0.911,,-0.911,sadness,Low Mood Risk
+2026-01-17,-0.953,,-0.953,sadness,Low Mood Risk
+2026-01-17,-0.755,,-0.755,sadness,Low Mood Risk
+2026-01-17,0.117,,0.117,neutral,Stable
+2026-01-17,-0.769,,-0.769,sadness,Low Mood Risk
+2026-01-17,-0.98,,-0.98,anger,Stress Risk
+2026-01-17,-0.987,,-0.987,sadness,Low Mood Risk
+2026-01-17,-0.967,-1.105,-1.022,sadness,Low Mood Risk
+2026-01-17,-0.967,-1.105,-1.022,sadness,Low Mood Risk
+2026-01-17,-0.034,,-0.034,neutral,Stable
+2026-01-17,-0.987,,-0.987,sadness,Low Mood Risk
+2026-01-17,-0.993,-1.005,-0.998,sadness,Low Mood Risk
+2026-01-17,-0.943,,-0.943,sadness,Low Mood Risk
+2026-01-17,-0.943,-0.775,-0.876,sadness,Low Mood Risk
+2026-01-17,0.919,,0.919,joy,Healthy

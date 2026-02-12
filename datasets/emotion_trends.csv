@@ -1,0 +1,8 @@
+day,text,emotion,mental_state,emotion_score,rolling_mean,rolling_std,rolling_min,rolling_max
+1,I feel very energetic and confident today,joy,positive,1,0.0,0.0,0.0,0.0
+2,Work was stressful and I feel exhausted,sadness,negative,-1,0.0,0.0,0.0,0.0
+3,Nothing special happened today,neutral,neutral,0,0.0,1.0,-1.0,1.0
+4,I am worried about my future,fear,negative,-1,-0.6666666666666666,0.5773502691896258,-1.0,0.0
+5,I feel calm and relaxed this evening,joy,positive,1,0.0,1.0,-1.0,1.0
+6,I am frustrated with my progress,anger,negative,-1,-0.3333333333333333,1.1547005383792517,-1.0,1.0
+7,Today was a good and productive day,joy,positive,1,0.3333333333333333,1.1547005383792515,-1.0,1.0
